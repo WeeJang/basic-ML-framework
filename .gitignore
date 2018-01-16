@@ -1,0 +1,8 @@
+classifier/*.pyc
+classifier/*.swp
+feature-engine/*.pyc
+feature-engine/*.swp
+metrics/*.pyc
+metrics/*.swp
+word_cutter/*.pyc
+word_cutter/*.swp
